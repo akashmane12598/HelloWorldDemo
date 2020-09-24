@@ -7,7 +7,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Guys!");
             String xyz = Console.ReadLine();
             Console.WriteLine(xyz);
             Calculation cal = new Calculation();
